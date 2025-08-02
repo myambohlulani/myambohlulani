@@ -10,9 +10,9 @@
 
 ---
 <!-- About Section -->
-🎓 Computer Science and Artificial Intelligence student at the <a href="https://en.wikipedia.org/wiki/University_of_Cape_Town">University of Cape Town</a>.
-💡 Passionate about learning new technologies and understanding the "how", "when", and "why" behind them.
-🌱 Currently exploring machine learning and web development.
+🎓 Computer Science and Artificial Intelligence student at the <a href="https://en.wikipedia.org/wiki/University_of_Cape_Town">University of Cape Town</a>.<br/>
+💡 Passionate about learning new technologies and understanding the "how", "when", and "why" behind them.<br/>
+🌱 Currently exploring machine learning and web development.<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hlulanimyamb0) or [Instagram](https://www.instagram.com/hlulanimyamb0)
 
 <!-- Tech Stack -->
