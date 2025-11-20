@@ -41,15 +41,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=myambohlulani&theme=transparent&hide_border=false)<br/>
-
-</div>
-
----
-
 <h3 align="center">🌐 Let's Connect</h3>
 <div align="center">
 
