@@ -1,55 +1,37 @@
-<!-- Greetings -->
 <h1 align='center'>
-    <img width='600px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&typeSpeed=70&random=false&width=600&lines=Hello+there👋!+I'm+Hlulani🍉+and+I+love😍+coding!" alt="Typing SVG"></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&color=00FF00&size=22&pause=1000&typeSpeed=70&center=true&vCenter=true&width=600&lines=Hello+there+👋!+I'm+Hlulani+🍉!;I+am+currently+exploring+Compilers⚙️" alt="Typing SVG">
+</h1>
 
-<!-- Title -->
-<h3 align="center"> ABOUT ME</h3>
-
-----
-🎓 2nd year student majoring in Computer Science and Artificial Intelligence at the University of Cape Town.</br>
-💡 Passionate about learning new technologies.</br>
-🌱 Currently exploring Compilers.</br>
-
-----
 <h3 align='center'>
-Tech Stack
+<font color="#FF69B4">About Me</font>
 </h3>
 
 ----
-<p align="center">
-  <a href="https://github.com/myambohlulani/">
-    <img src="https://skillicons.dev/icons?i=java,python,c,bash,maven,spring&perline=3" />
-  </a>
+
+<p>
+    <font color="#00FF00">
+  🎓 2nd Year Comp Sci & AI Student at the University of Cape Town.</br>
+  💡 Passionate about learning new Tech.<br>
+  🌱 Currently diving deep into Compiler Design.
+  </font>
 </p>
 
 ----
 <h3 align='center'>
-Tools
+<font color="#FF69B4">Tech Stack & Tools</font>
 </h3>
 
 ----
 
 <p align="center">
-  <a href="https://github.com/myambohlulani/">
-    <img src="https://skillicons.dev/icons?i=git,neovim,vim,github,vscode,pycharm&perline=3" />
-  </a>
-</p>
-
-----
-<h3 align='center'>
-OS & Kernel
-</h3>
-
-----
-<p align="center">
-  <a href="https://github.com/myambohlulani/">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,bash,maven,spring,git,neovim,vim,vscode,pycharm,linux,windows&perline=7" />
   </a>
 </p>
 
 ---
 <h3 align='center'>
-Social
+<font color="#FF69B4">Connect with Me</font>
 </h3>
 
 ---
