@@ -24,7 +24,7 @@
 ----
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/myambohlulani">
     <img src="https://skillicons.dev/icons?i=java,python,c,bash,maven,spring,git,neovim,vim,vscode,pycharm,linux,windows&perline=7" />
   </a>
 </p>
