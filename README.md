@@ -10,7 +10,6 @@
 
 <p>
     <font color="#00FF00">
-  🎓 2nd Year Comp Sci & AI Student at the University of Cape Town.</br>
   💡 Passionate about learning new Tech.<br>
   🌱 Currently diving deep into Compiler Design.
   </font>
