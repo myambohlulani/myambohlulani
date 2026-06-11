@@ -10,7 +10,6 @@
 
 <p>
     <font color="#00FF00">
-  💡 Passionate about learning new Tech.<br>
   🌱 Currently diving deep into Compiler Design.
   </font>
 </p>
